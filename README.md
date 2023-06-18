@@ -3,19 +3,17 @@
 <p>El objetivo del ejercicio es realizar una aplicación simple donde traemos todos los pokemones de PokeApi, 
 mostrandolos en RecyclerView. Cada vez que seleccionamos un Pokémon, en otra pantalla muestra detalles de ese Pokémon seleccionado.<br>
 La API utilizada en este ejerccios es <a href="https://pokeapi.co/">PokéApi</a>.</p>
-<p>Usando librerias externas:<br>
+<p>Tecnologias Utilizadas:<br>
 - Retrofit2<br>
 - GSON<br>
-- Coroutines<br>
-- Picasso<br>
 - ViewModel<br>
 - LiveData<br>
-- Activity / Fragment (para facilitar la creacion de viewmodel)<br>
+- Activity / Fragment<br>
 - LottieFiles<br>
-- Shimmer<br>
+- Shimmer (Efeito de Loading)<br>
 </p>
-<h3><a href="https://www.youtube.com/watch?v=5OMCpIVHdCw&ab_channel=ArtemioDerkachev" target="_blanck">Ver en YouTube</a></h3> 
+<h3><a href="" target="_blanck">Demonstração Aqui...</a></h3> 
 <hr>
 <div align="center">
-<img src="https://pbs.twimg.com/profile_images/1229609721260232705/oT07arOT_400x400.jpg"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png"/>
 </div>
