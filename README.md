@@ -1,8 +1,9 @@
 # Android-Ejercicio-PokeApi
 
-<p>El objetivo del ejercicio es realizar una aplicación simple donde traemos todos los pokemones de PokeApi, 
-mostrandolos en RecyclerView. Cada vez que seleccionamos un Pokémon, en otra pantalla muestra detalles de ese Pokémon seleccionado.<br>
-La API utilizada en este ejerccios es <a href="https://pokeapi.co/">PokéApi</a>.</p>
+<p>Pesquise APIs públicas e escolha uma para implementação de aplicativo Android.</p>
+<p>Desenvolva um aplicativo Android com base no protótipo.</p>
+<br>
+<p>API utilizada <a href="https://pokeapi.co/">PokéApi</a>.</p>
 <p>Tecnologias Utilizadas:<br>
 - Retrofit2<br>
 - GSON<br>
