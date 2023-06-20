@@ -1,4 +1,4 @@
-# Android-Ejercicio-PokeApi
+# UTP - PokeAPI Android
 
 <p>Pesquise APIs públicas e escolha uma para implementação de aplicativo Android.</p>
 <p>Desenvolva um aplicativo Android com base no protótipo.</p>
