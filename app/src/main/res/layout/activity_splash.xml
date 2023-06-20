@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/background_app"
+    android:background="@color/red_300"
     tools:context=".ui.view.SplashActivity">
 
     <com.airbnb.lottie.LottieAnimationView
@@ -12,8 +12,8 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_gravity="center"
-        app:lottie_rawRes="@raw/pokeball_loading_animation"
         app:lottie_autoPlay="true"
-        app:lottie_loop="true"/>
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/pokeball_loading_animation" />
 
 </FrameLayout>

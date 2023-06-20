@@ -2,7 +2,7 @@
     <dimen name="fab_margin">16dp</dimen>
 
     <dimen name="text_small">8sp</dimen>
-    <dimen name="text_x_small">12sp</dimen>
+    <dimen name="text_x_small">16sp</dimen>
     <dimen name="text_normal">16sp</dimen>
     <dimen name="text_large">24sp</dimen>
     <dimen name="text_x_large">32sp</dimen>

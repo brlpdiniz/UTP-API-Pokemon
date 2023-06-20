@@ -34,10 +34,11 @@
                 android:id="@+id/tvId"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="N° 001"
+                android:layout_margin="@dimen/space_small"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textColor="@color/text_id"
                 android:textSize="@dimen/text_x_small"
-                android:layout_margin="@dimen/space_small" />
+                tools:text="N° 001" />
 
             <TextView
                 android:id="@+id/tvName"
